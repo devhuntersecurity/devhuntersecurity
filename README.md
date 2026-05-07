@@ -20,7 +20,7 @@
 
 ---
 ### 🌐 Systems & Network Ops
-* 🔍 **Live Monitoring:** [Security Portal & Threat Map](https://devhuntersecurity.github.io/live-cyber-threat-map-indobsd/)
+* 🔍 **Live Monitoring:** [Security Portal & Threat Map](https://devhuntersecurity.github.io/)
 ---
 
 ## 📈 Star History
