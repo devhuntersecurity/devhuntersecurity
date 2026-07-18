@@ -23,11 +23,13 @@ As the founder of **Lintas Patria Nusantara** (est. 2024), a dedicated Cloud Ser
 
 > *sʏsᴀᴅᴍɪɴ ʙʏ ᴛʀᴀᴅᴇ, ᴛʜʀᴇᴀᴛ ʜᴜɴᴛᴇʀ ʙʏ ʙʟᴏᴏᴅ. ᴍᴀsᴛᴇʀɪɴɢ ᴛʜᴇ ᴀʀᴛ ᴏғ ᴘᴀᴄᴋᴇᴛ ғɪʟᴛᴇʀɪɴɢ ᴀɴᴅ ɪɴғʀᴀsᴛʀᴜᴄᴛᴜʀᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ.*
 
-- 🛠️ **Current Role:** Founder & CEO at Lintas Patria Nusantara (Cloud Services) | Lead Developer at IDGuard DNS | Founder of JawaTimur Cyber Security Community
+- 🛠️ **Current Role:** Founder & CEO at Lintas Patria Nusantara (Cloud Services) | Lead Developer at IDGuard DNS | Founder & Director of JawaTimur Cyber Security (Red & Blue Team Operations)
+- 📜 **Professional Credentials:** HTB CDSA | Cisco CCNA | MikroTik MTCNA | EC-Council CEH | BSSN Certified | ICSI CNSS
+- 🏆 **Achievements:** Provincial Awardee in IT Network Systems Administration (Vocational/SMK Competition)
 - 🌐 **Virtualization & Hypervisors:** Proxmox VE, VMware ESXi, KVM, Hyper-V, and Oracle VM
 - 🖥️ **OS Specialization:** Linux, FreeBSD, MikroTik (RouterOS), Windows, and macOS
 - 💬 **Ask me about:** Enterprise Cloud Infrastructure, Advanced Routing & Firewalling, DNS Security & Hardening, Threat Intelligence Datasets, BIND9 & Unbound Deployment, and Network Packet Filtering.
-- ✉️ **Email:** [devhuntersecurity@gmail.com](mailto:devhuntersecurity@gmail.com)
+- ✉️ **Email:** [devhuntersecurity@gmail.com](mailto:devhuntersecurity@gmail.com))
 
 ---
 
