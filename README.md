@@ -4,8 +4,11 @@
 
 [![Support via Saweria](https://img.shields.io/badge/Support-Saweria-orange?style=for-the-badge)](https://saweria.co/DevHunter)
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/devhuntersecurity)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devhuntersecurity)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/devhuntersecurity)
+[![Telegram Follow](https://img.shields.io/badge/Follow_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devhuntersecurity)
+[![Facebook Follow](https://img.shields.io/badge/Follow_on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/devhuntersecurity)
+[![Instagram Follow](https://img.shields.io/badge/Follow_on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devhuntersecurity)
+[![Threads Follow](https://img.shields.io/badge/Follow_on-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@devhuntersecurity)
+[![TikTok Follow](https://img.shields.io/badge/Follow_on-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devhuntersecurity)
 
 **If you find my projects valuable and wish to support my research, please consider donating via [Saweria](https://saweria.co/DevHunter).**
 
